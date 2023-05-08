@@ -1,0 +1,97 @@
+body {
+  color: #2b283a;
+  width: auto;
+  text-align: center;
+  background-color: #ecfdf5;
+  margin: 0;
+  font-family: "Karla", sans-serif;
+}
+
+h1 {
+  margin-bottom: 0px;
+  width: 290px;
+}
+
+#pass {
+  color: #10b981;
+}
+
+.hero {
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
+  width: 400px;
+  text-align: left;
+}
+
+#generate {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  padding: 5px 12px 5px 12px;
+  background-color: #10b981;
+  border: none;
+  color: white;
+}
+
+#under {
+  text-align: center;
+  border-bottom: 2px #d5d4d8 solid;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.generators {
+  display: flex;
+  justify-content: space-around;
+}
+#random-one {
+  padding-top: 3px;
+  color: #5def92;
+  background-color: #273549;
+  margin-left: auto;
+  margin-right: 105px;
+  height: 25px;
+  width: 150px;
+  border-radius: 4px;
+}
+
+#random-two {
+  padding-top: 3px;
+  color: #5def92;
+  background-color: #273549;
+  margin-right: auto;
+  height: 25px;
+  width: 149px;
+  border-radius: 4px;
+}
+
+.footer {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#copyone {
+  margin-right: 110px;
+  background-color: #ecfdf5;
+  border: none;
+}
+
+#copyoneimg {
+  width: 20px;
+  padding-top: 2px;
+}
+
+#copytwo {
+  background-color: #ecfdf5;
+  border: none;
+}
+
+#copytwoimg {
+  width: 20px;
+  padding-top: 2px;
+}
